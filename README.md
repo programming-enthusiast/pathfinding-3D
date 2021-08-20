@@ -8,7 +8,7 @@
 *A Visualizer for pathfinding algorithms in 3D.*
 
 ## Live Demo
-The live demo can be found [here]().
+The live demo can be found [here](https://pathfinding-3-d.vercel.app/).
 
 <img src="./readme_assets/demo.gif" width="100%">
 
